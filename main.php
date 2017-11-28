@@ -62,6 +62,10 @@ class blog {
 
 	}
 
+	private function swag($test){
+		//code osv..
+	}
+
 }
 
 	$test = new blog();
