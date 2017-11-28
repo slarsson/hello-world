@@ -63,7 +63,7 @@ class blog {
 	}
 
 	private function swag($test){
-		//code osv..
+		//code osv..asdcasdf
 	}
 
 }
