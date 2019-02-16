@@ -4,7 +4,7 @@
 		
 		<img src="<?php echo URL; ?>media/vafan2.png">
 
-		<h1>BOKOHARAM</h1>
+		<h1>sitename</h1>
 	
 	</a>
 
